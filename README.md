@@ -22,7 +22,7 @@ Se o usuário insere o número 15, a saída será:
 ====================== Exercício FizzBuzz ======================
 Substitui números múltiplos de 3 por "Fizz"
 Substitui números múltiplos de 5 por "Buzz"
-Para números múltiplos de ambos, 3 e 5, imprima "FizzBuzz"
+Para números múltiplos de ambos, 3 e 5, imprime "FizzBuzz"
 
 Digite o até qual número nosso contador vai: 15
 
